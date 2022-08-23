@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 100%;
+}
+
+.column {
+  flex: 1 1 300px;
+}
